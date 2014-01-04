@@ -1,0 +1,187 @@
+Return-path: <bounces@blogtrottr.com>
+Received: from qw07.blogtrottr.com (qw07.blogtrottr.com [88.198.134.53]) by
+ aldaviva.com (aldaviva.com) (MDaemon PRO v11.0.0) with ESMTP id
+ md50000044978.msg for <ben@aldaviva.com>; Sat, 10 Aug 2013 13:22:56 -0400
+Authentication-Results: aldaviva.com spf=pass smtp.mail=bounces@blogtrottr.com; x-ip-ptr=pass dns.ptr=qw07.blogtrottr.com (ip=88.198.134.53); x-ip-helo=pass smtp.helo=qw07.blogtrottr.com (ip=88.198.134.53); x-ip-mail=hardfail smtp.mail=bounces@blogtrottr.com (does not match 88.198.134.53); dkim=pass header.d=blogtrottr.com (b=mHEkJjg5YY; 1:0:good);
+Received-SPF: pass (aldaviva.com: domain of bounces@blogtrottr.com designates 88.198.134.53 as permitted sender) x-spf-client=MDaemon.PRO.v11.0.0 receiver=aldaviva.com client-ip=88.198.134.53 envelope-from=<bounces@blogtrottr.com> helo=qw07.blogtrottr.com
+X-Spam-Status: No, score=-3.50 required=4
+X-Spam-Report: *  1.2 INVALID_DATE Invalid Date: header (not RFC 2822) *  0.0 REMOVE_BEFORE_LINK BODY: Removal phrase right before a link * -4.7 BAYES_00 BODY: Bayesian spam probability is 0 to 1% *      [score: 0.0000] *  0.0 HTML_MESSAGE BODY: HTML included in message
+X-Spam-Processed: aldaviva.com, Sat, 10 Aug 2013 13:22:56 -0400 (processed during SMTP session)
+X-MDPtrLookup-Result: pass dns.ptr=qw07.blogtrottr.com (ip=88.198.134.53) (aldaviva.com)
+X-MDHeloLookup-Result: pass smtp.helo=qw07.blogtrottr.com (ip=88.198.134.53) (aldaviva.com)
+X-MDMailLookup-Result: hardfail smtp.mail=bounces@blogtrottr.com (does not match 88.198.134.53) (aldaviva.com)
+X-MDDKIM-Result: unapproved (aldaviva.com)
+X-MDSPF-Result: unapproved (aldaviva.com)
+X-Rcpt-To: ben@aldaviva.com
+X-MDRcpt-To: ben@aldaviva.com
+X-MDRemoteIP: 88.198.134.53
+X-Return-Path: bounces@blogtrottr.com
+X-Envelope-From: bounces@blogtrottr.com
+X-MDaemon-Deliver-To: ben@aldaviva.com
+Received: by qw07.blogtrottr.com (Postfix, from userid 33) id 5ABA8132AD4;
+ Sat, 10 Aug 2013 18:22:14 +0100 (BST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=blogtrottr.com; s=mail; t=1376155334; bh=Lt8McclLrnzf3cbRU49Kpb/+f9j0MhomWwJrN0mEKU0=; h=MIME-Version:Content-Type:From:Subject:To:Message-Id:Date; b=mHEkJjg5YYt4UiA0kz+Ysfcv4g81+hdtYpAVtX4GoalYc1n0dc0pk0WCeblx3P++P cVg83NN4g5ngGHBAEqhfNDhZSLk6lg7YS0PWb5cbxcQw65O8uflMF+5jOpFhPC++q0 n8874aEKDbosmj/wjpkeJK8dN+W6pOlPkanJcp0c=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_7752099f13d3261b15d3d412d5bb4a12"
+From: Blogtrottr <busybee@blogtrottr.com>
+Subject: From Ben Hutchison's contacts: Saturday stroll views
+To: ben@aldaviva.com
+Message-ID: <20130810172214.5ABA8132AD4@qw07.blogtrottr.com>
+Date: Sat, 10 Aug 2013 10:22:14 -0700
+
+--=_7752099f13d3261b15d3d412d5bb4a12
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+
+From Ben Hutchison's contacts
+
+
+
+Saturday stroll views
+http://www.flickr.com/photos/remizova/9478030145/
+Aug 10th 2013, 17:02
+
+Media files:
+http://farm4.staticflickr.com/3727/9478030145_f9efa2dc5f_b.jpg
+
+
+remizova posted a photo:
+=09
+
+
+
+
+You are receiving this email because you subscribed to this feed at http://=
+blogtrottr.com
+
+If you no longer wish to receive these emails, you can unsubscribe here:
+http://blogtrottr.com/unsubscribe/1XF/2Xfgqs
+--=_7752099f13d3261b15d3d412d5bb4a12
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Blogtrottr</title>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+">
+    <style type=3D"text/css">
+           img { border:none }
+  </style>
+  </head>
+  <body style=3D"margin-left:4px; margin-right:4px; margin-top:0; padding:0=
+; font:13px Helvetica, sans-serif;">
+      <table width=3D"100%">
+          <tr>
+              <td>
+                  <table cellpadding=3D"3" width=3D"100%" style=3D"border:1=
+px solid #adadad; background-color: #F3F1EC; color: #666666; padding:8px; -=
+webkit-border-radius:4px; border-radius:4px; -moz-border-radius:4px; margin=
+-bottom:6px;">
+                      <tr>
+                          <td><span style=3D"font-family:Helvetica, sans-se=
+rif; font-size:20px;font-weight:bold;line-height:16px;">From Ben Hutchison'=
+s contacts</span></td>
+                      </tr>
+                      <tr>
+                          <td><span style=3D"font-family:Helvetica, sans-se=
+rif; font-size:11px;">&nbsp;</span></td>
+                      </tr>
+                  </table>
+              </td>
+          </tr>
+         =20
+            <tr>
+              <td>
+                  <table cellpadding=3D"3" width=3D"100%" style=3D"border:1=
+px solid #555555; background-color: #555555; color: #ffc40d; padding:8px; -=
+webkit-border-radius:4px; border-radius:4px; -moz-border-radius:4px; line-h=
+eight:16px; margin-bottom:6px;">
+                      <tr>
+                          <td width=3D"130" valign=3D"top"><a href=3D"http:=
+//www.launchbit.com/aa/1037de7818/"><img src=3D"http://www.launchbit.com/ta=
+z-i/4666-30702bfc59ecca4840432ea8688f3b0d9d7a21dc-text.jpg" /></a></td>
+                          <td>
+                              <table width=3D"100%">
+                                  <tr><td height=3D"100px"><a style=3D"font=
+-family:Helvetica, sans-serif; font-size:16px; color: #ffc40d;" href=3D"htt=
+p://www.launchbit.com/aa/1037de7818/">Web Performance eBook</a><br /><br />=
+<span style=3D"font-family:Helvetica, sans-serif; font-size:13px; color: #f=
+fc40d;">A Beginner=E2=80=99s Guide to Web Performance is a free 20 page eBo=
+ok covering all the basics of site speed & performance. Download it to be o=
+n the way to a faster website! </span><img src=3D"http://www.launchbit.com/=
+ap/1037de7818/" /></td></tr>
+                                  <tr><td align=3D"right" valign=3D"bottom"=
+ style=3D"font-family:Helvetica, sans-serif; font-size:11px; color: #c7a745=
+;" align=3D"right">From our sponsors</td></tr>
+                              </table>
+                          </td>
+                      </tr>
+                  </table>
+              </td>
+          </tr>
+         =20
+         =20
+          <tr>
+              <td>
+                                    <a name=3D"item_0"></a>
+                  <table cellpadding=3D"3" width=3D"100%" style=3D"font:13p=
+x Helvetica, sans-serif; border-radius:4px; -moz-border-radius:4px; -webkit=
+-border-radius:4px; background-color:#fff; padding:8px; margin-bottom:6px; =
+border:1px solid #adadad;">
+        <tr>
+            <td>
+                            <a style=3D"font-family:Helvetica, sans-serif; =
+letter-spacing:-1px;margin:0;padding:0 0 2px;font-weight: bold;font-size: 1=
+9px;line-height: 20px;color:#222;" href=3D"http://www.flickr.com/photos/rem=
+izova/9478030145/">Saturday stroll views</a>
+            <div style=3D"font-family:Helvetica, sans-serif; text-align:lef=
+t;color:#999;font-size:11px;font-weight:bold;line-height:15px;">Aug 10th 20=
+13, 17:02, by nobody@flickr.com (remizova)
+</div>
+                        <div style=3D"font-family:Helvetica, sans-serif; co=
+lor:#494949;text-align:justify;font-size:13px;">
+                <p><p><a href=3D"http://www.flickr.com/people/remizova/">re=
+mizova</a> posted a photo:</p>
+=09
+<p><a href=3D"http://www.flickr.com/photos/remizova/9478030145/" title=3D"S=
+aturday stroll views"><img src=3D"http://farm4.staticflickr.com/3727/947803=
+0145_f9efa2dc5f_m.jpg" width=3D"160" height=3D"240" alt=3D"Saturday stroll =
+views" /></a></p></p>
+			</div>
+           =20
+           =20
+                    =20
+                  </td></tr>
+                 </table>
+                  <img src=3D"http://blogtrottr.com/spot/4Ws4/0/3DdT" alt=
+=3D"" />                                </td>
+          </tr>
+
+          <tr>
+              <td>
+                  <table cellpadding=3D"3" width=3D"100%" style=3D"font-fam=
+ily: Helvetica, sans-serif; border:1px solid #adadad; background-color: #F3=
+F1EC; color: #666666; padding:8px; border-radius:4px; -moz-border-radius:4p=
+x; -webkit-border-radius:4px; line-height:16px; font-size: 11px; color:#666=
+;">
+                      <tr>
+                          <td>You are receiving this email because you subs=
+cribed to this feed at <a href=3D"http://blogtrottr.com/">blogtrottr.com</a=
+>.<br><br>
+        If you no longer wish to receive these emails, you can <a href=3D"h=
+ttp://blogtrottr.com/unsubscribe/1XF/2Xfgqs">unsubscribe from this feed</a>=
+,
+        or <a href=3D"http://blogtrottr.com/subscriptions/">manage all your=
+ subscriptions</a>
+                          </td>
+                      </tr>
+                  </table>
+             </td>
+          </tr>
+      </table>
+  </body>
+</html>
+--=_7752099f13d3261b15d3d412d5bb4a12--
