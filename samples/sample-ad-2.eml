@@ -1,0 +1,275 @@
+Return-path: <bounces@blogtrottr.com>
+Received: from qw05.blogtrottr.com (qw05.blogtrottr.com [88.198.134.49]) by
+ aldaviva.com (aldaviva.com) (MDaemon PRO v11.0.0) with ESMTP id
+ md50000086941.msg for <ben@aldaviva.com>; Sat, 01 Nov 2014 20:31:22 -0400
+Authentication-Results: aldaviva.com spf=pass smtp.mail=bounces@blogtrottr.com; x-ip-ptr=pass dns.ptr=qw05.blogtrottr.com (ip=88.198.134.49); x-ip-helo=pass smtp.helo=qw05.blogtrottr.com (ip=88.198.134.49); x-ip-mail=hardfail smtp.mail=bounces@blogtrottr.com (does not match 88.198.134.49); dkim=pass header.d=blogtrottr.com (b=u3bCHv+DYE; 1:0:good);
+Received-SPF: pass (aldaviva.com: domain of bounces@blogtrottr.com designates 88.198.134.49 as permitted sender) x-spf-client=MDaemon.PRO.v11.0.0 receiver=aldaviva.com client-ip=88.198.134.49 envelope-from=<bounces@blogtrottr.com> helo=qw05.blogtrottr.com
+X-Spam-Status: No, score=-100.00 required=4
+X-Spam-Report: * -100 USER_IN_WHITELIST From: address is in the whitelist
+X-Spam-Processed: aldaviva.com, Sat, 01 Nov 2014 20:31:22 -0400 (processed during SMTP session)
+X-MDPtrLookup-Result: pass dns.ptr=qw05.blogtrottr.com (ip=88.198.134.49) (aldaviva.com)
+X-MDHeloLookup-Result: pass smtp.helo=qw05.blogtrottr.com (ip=88.198.134.49) (aldaviva.com)
+X-MDMailLookup-Result: hardfail smtp.mail=bounces@blogtrottr.com (does not match 88.198.134.49) (aldaviva.com)
+X-MDDKIM-Result: unapproved (aldaviva.com)
+X-MDSPF-Result: unapproved (aldaviva.com)
+X-Rcpt-To: ben@aldaviva.com
+X-MDRcpt-To: ben@aldaviva.com
+X-MDRemoteIP: 88.198.134.49
+X-Return-Path: bounces@blogtrottr.com
+X-Envelope-From: bounces@blogtrottr.com
+X-MDaemon-Deliver-To: ben@aldaviva.com
+Received: by qw05.blogtrottr.com (Postfix, from userid 33) id 63DACE1C76; Sun,
+ 2 Nov 2014 00:31:11 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=blogtrottr.com; s=mail; t=1414888271; bh=wg3a8b7gu7uwRd7zwBc6cz4+T7gm9lnwCV+67ogV7s4=; h=MIME-Version:Content-Type:From:Subject:To:Message-Id:Date; b=u3bCHv+DYEMUF3Jnmm5kDkO6TXJxmXjLmwyaWrbpimrerodT2BwArZkJU6Ck9N3hS Q5gAP1LH3NgfcxoV13Y8vbEvUMxz9vCoaz7v4FhlXoPb2m5IxLeDKoTrF1Oj3nNIIX /qWMbcoroRQ2tEBkKl17zsgRPdw0k62qirhqKO0E=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_3dcd2f4378402ef0b4dcbe248c364540"
+From: Blogtrottr <busybee@blogtrottr.com>
+Subject: BUTTHUG: naughty duck dream adventures
+To: ben@aldaviva.com
+Message-ID: <20141102003111.63DACE1C76@qw05.blogtrottr.com>
+Date: Sat, 01 Nov 2014 17:31:11 -0700
+
+--=_3dcd2f4378402ef0b4dcbe248c364540
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+
+BUTTHUG
+
+comix and art drawn by Shmorky
+
+naughty duck dream adventures
+http://butthug.com/post/101533197930
+Nov 1st 2014, 16:44
+
+
+
+naughty duck dream adventures
+
+
+
+You are receiving this email because you subscribed to this feed at https:/=
+/blogtrottr.com
+
+If you no longer wish to receive these emails, you can unsubscribe here:
+https://blogtrottr.com/unsubscribe/1XF/qXWpNh
+--=_3dcd2f4378402ef0b4dcbe248c364540
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Blogtrottr</title>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+">
+    <style type=3D"text/css">
+        @media only screen and (max-device-width: 480px) {
+            .a2 { display:none !important; }
+        }
+       =20
+        @media only screen and (max-device-width : 320px)  { img { max-widt=
+h: 278px; } }
+       =20
+    img { border:none; }
+  </style>
+  </head>
+  <body style=3D"margin-left:4px; margin-right:4px; margin-top:0; padding:0=
+; font:13px Helvetica, sans-serif;">
+      <table width=3D"100%">
+          <tr>
+              <td>
+                  <table cellpadding=3D"3" width=3D"100%" style=3D"border:1=
+px solid #adadad; background-color: #F3F1EC; color: #666666; padding:8px; -=
+webkit-border-radius:4px; border-radius:4px; -moz-border-radius:4px; margin=
+-bottom:6px;">
+                      <tr>
+                          <td><span style=3D"font-family:Helvetica, sans-se=
+rif; font-size:20px;font-weight:bold;line-height:16px;">BUTTHUG</span></td>
+                      </tr>
+                      <tr>
+                          <td><span style=3D"font-family:Helvetica, sans-se=
+rif; font-size:11px;">comix and art drawn by Shmorky&nbsp;</span></td>
+                      </tr>
+                  </table>
+              </td>
+          </tr>
+                    <tr>
+              <td style=3D"line-height:10px; font-size:6px; padding-left: 2=
+px; padding-right: 2px;">
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  =
+align=3D"center" style=3D"margin-left:auto; margin-right:auto;"><tr><td col=
+span=3D"2"><a href=3D"http://li.blogtrottr.com/click?s=3D124190&layout=3Dma=
+rquee&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97=
+c2d314df44e1ae0147b" rel=3D"nofollow"><img src=3D"http://li.blogtrottr.com/=
+imp?s=3D124190&layout=3Dmarquee&li=3D0&m=3D53218ea2108534d012156993e92f2e35=
+&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" border=3D"0" style=3D"displa=
+y: block; width:100%; height:auto;" width=3D"{INSERT TEMPLATE MAX WIDTH HER=
+E AS INTEGER}" /></a></td></tr><tr style=3D"display:block; height:1px; line=
+-height:1px;"><td><img src=3D"http://li.blogtrottr.com/imp?s=3D124191&sz=3D=
+1x1&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2=
+d314df44e1ae0147b" height=3D"1" width=3D"10" /></td><td><img src=3D"http://=
+li.blogtrottr.com/imp?s=3D124192&sz=3D1x1&li=3D0&m=3D53218ea2108534d0121569=
+93e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" height=3D"1" width=
+=3D"10" /></td></tr><tr><td align=3D"left"><a href=3D"http://li.blogtrottr=
+=2Ecom/click?s=3D124193&sz=3D116x15&li=3D0&m=3D53218ea2108534d012156993e92f=
+2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" rel=3D"nofollow"><img sr=
+c=3D"http://li.blogtrottr.com/imp?s=3D124193&sz=3D116x15&li=3D0&m=3D53218ea=
+2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" bor=
+der=3D"0"/></a></td><td align=3D"right"><a href=3D"http://li.blogtrottr.com=
+/click?s=3D124194&sz=3D69x15&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=
+=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" rel=3D"nofollow"><img src=3D"h=
+ttp://li.blogtrottr.com/imp?s=3D124194&sz=3D69x15&li=3D0&m=3D53218ea2108534=
+d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" border=3D"=
+0"/></a></td></tr></table>
+              </td>
+          </tr>
+                   =20
+          <tr>
+              <td>
+                                    <a name=3D"item_0"></a>
+                  <table cellpadding=3D"3" width=3D"100%" style=3D"font:13p=
+x Helvetica, sans-serif; border-radius:4px; -moz-border-radius:4px; -webkit=
+-border-radius:4px; background-color:#fff; padding:8px; margin-bottom:6px; =
+border:1px solid #adadad;">
+        <tr>
+            <td>
+                            <a style=3D"font-family:Helvetica, sans-serif; =
+letter-spacing:-1px;margin:0;padding:0 0 2px;font-weight: bold;font-size: 1=
+9px;line-height: 20px;color:#222;" href=3D"http://butthug.com/post/10153319=
+7930">naughty duck dream adventures</a>
+            <div style=3D"font-family:Helvetica, sans-serif; text-align:lef=
+t;color:#999;font-size:11px;font-weight:bold;line-height:15px;">Nov 1st 201=
+4, 16:44
+</div>
+                        <div style=3D"font-family:Helvetica, sans-serif; co=
+lor:#494949;text-align:justify;font-size:13px;">
+                <p><img src=3D"http://38.media.tumblr.com/d12e4874e2bd24c4a=
+2f9278040e26212/tumblr_nedwmupDtG1r83ei3o1_500.jpg" /><br/><br/><p>naughty =
+duck dream adventures</p></p>
+			</div>
+           =20
+           =20
+                    =20
+                  </td></tr>
+                 </table>
+                  <img src=3D"https://blogtrottr.com/spot/4Ws4/3/4cRK" alt=
+=3D"" />                                </td>
+          </tr>
+                    <tr>
+              <td>
+                  <table cellpadding=3D"0" width=3D"100%" style=3D"border:1=
+px solid #adadad; padding:9px; -webkit-border-radius:4px; border-radius:4px=
+; -moz-border-radius:4px; line-height:16px; margin-bottom:6px;">
+                      <tr>
+                          <td align=3D"center" style=3D"padding: 8px;">
+                              <table style=3D"display: inline-block;" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td colspan=3D"2"><a style=
+=3D"display: block; width: 300px; height: 250px;" href=3D"http://li.blogtro=
+ttr.com/click?s=3D124184&sz=3D300x250&li=3D0&m=3D53218ea2108534d012156993e9=
+2f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" rel=3D"nofollow"><img =
+src=3D"http://li.blogtrottr.com/imp?s=3D124184&sz=3D300x250&li=3D0&m=3D5321=
+8ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" =
+border=3D"0" width=3D"300" height=3D"250"/></a></td></tr><tr style=3D"displ=
+ay:block; height:1px; line-height:1px;"><td><img src=3D"http://li.blogtrott=
+r.com/imp?s=3D124185&sz=3D1x1&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=
+=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" height=3D"1" width=3D"10" /></=
+td><td><img src=3D"http://li.blogtrottr.com/imp?s=3D124186&sz=3D1x1&li=3D0&=
+m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1a=
+e0147b" height=3D"1" width=3D"10" /></td></tr><tr><td align=3D"left"><a hre=
+f=3D"http://li.blogtrottr.com/click?s=3D124178&sz=3D116x15&li=3D0&m=3D53218=
+ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" r=
+el=3D"nofollow"><img src=3D"http://li.blogtrottr.com/imp?s=3D124178&sz=3D11=
+6x15&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c=
+2d314df44e1ae0147b" border=3D"0"/></a></td><td align=3D"right"><a href=3D"h=
+ttp://li.blogtrottr.com/click?s=3D124179&sz=3D69x15&li=3D0&m=3D53218ea21085=
+34d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" rel=3D"n=
+ofollow"><img src=3D"http://li.blogtrottr.com/imp?s=3D124179&sz=3D69x15&li=
+=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df=
+44e1ae0147b" border=3D"0"/></a></td></tr></table>
+                          </td>
+                      </tr>
+                  </table>
+              </td>
+          </tr>
+                    <tr>
+              <td>
+                  <table cellpadding=3D"3" width=3D"100%" style=3D"font-fam=
+ily: Helvetica, sans-serif; border:1px solid #adadad; background-color: #F3=
+F1EC; color: #666666; padding:8px; border-radius:4px; -moz-border-radius:4p=
+x; -webkit-border-radius:4px; line-height:16px; font-size: 11px; color:#666=
+;">
+                      <tr>
+                          <td>You are receiving this email because you subs=
+cribed to this feed at <a href=3D"https://blogtrottr.com/">blogtrottr.com</=
+a>.<br><br>
+        If you no longer wish to receive these emails, you can <a href=3D"h=
+ttps://blogtrottr.com/unsubscribe/1XF/qXWpNh">unsubscribe from this feed</a=
+>,
+        or <a href=3D"https://blogtrottr.com/subscriptions/">manage all you=
+r subscriptions</a>
+                          </td>
+                      </tr>
+                  </table>
+             </td>
+          </tr>
+      </table>
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"40" height=3D"6"><tbody><tr><td><img src=3D"http://li.blogtrottr.com/im=
+p?s=3D123761900&sz=3D2x1&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dba=
+abbcd221032d0840e97c2d314df44e1ae0147b" width=3D"2" height=3D"6" border=3D"=
+0" /></td><td><img src=3D"http://li.blogtrottr.com/imp?s=3D123761901&sz=3D2=
+x1&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d=
+314df44e1ae0147b" width=3D"2" height=3D"6" border=3D"0" /></td><td><img src=
+=3D"http://li.blogtrottr.com/imp?s=3D123761902&sz=3D2x1&li=3D0&m=3D53218ea2=
+108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" widt=
+h=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://li.blogtrot=
+tr.com/imp?s=3D123761903&sz=3D2x1&li=3D0&m=3D53218ea2108534d012156993e92f2e=
+35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" width=3D"2" height=3D"6" b=
+order=3D"0" /></td><td><img src=3D"http://li.blogtrottr.com/imp?s=3D1237619=
+04&sz=3D2x1&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0=
+840e97c2d314df44e1ae0147b" width=3D"2" height=3D"6" border=3D"0" /></td><td=
+><img src=3D"http://li.blogtrottr.com/imp?s=3D123761905&sz=3D2x1&li=3D0&m=
+=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae=
+0147b" width=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://=
+li.blogtrottr.com/imp?s=3D123761906&sz=3D2x1&li=3D0&m=3D53218ea2108534d0121=
+56993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" width=3D"2" hei=
+ght=3D"6" border=3D"0" /></td><td><img src=3D"http://li.blogtrottr.com/imp?=
+s=3D123761907&sz=3D2x1&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaab=
+bcd221032d0840e97c2d314df44e1ae0147b" width=3D"2" height=3D"6" border=3D"0"=
+ /></td><td><img src=3D"http://li.blogtrottr.com/imp?s=3D123761908&sz=3D2x1=
+&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d31=
+4df44e1ae0147b" width=3D"2" height=3D"6" border=3D"0" /></td><td><img src=
+=3D"http://li.blogtrottr.com/imp?s=3D123761909&sz=3D2x1&li=3D0&m=3D53218ea2=
+108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" widt=
+h=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://li.blogtrot=
+tr.com/imp?s=3D123761910&sz=3D2x1&li=3D0&m=3D53218ea2108534d012156993e92f2e=
+35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" width=3D"2" height=3D"6" b=
+order=3D"0" /></td><td><img src=3D"http://li.blogtrottr.com/imp?s=3D1237619=
+11&sz=3D2x1&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0=
+840e97c2d314df44e1ae0147b" width=3D"2" height=3D"6" border=3D"0" /></td><td=
+><img src=3D"http://li.blogtrottr.com/imp?s=3D123761912&sz=3D2x1&li=3D0&m=
+=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae=
+0147b" width=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://=
+li.blogtrottr.com/imp?s=3D123761913&sz=3D2x1&li=3D0&m=3D53218ea2108534d0121=
+56993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" width=3D"2" hei=
+ght=3D"6" border=3D"0" /></td><td><img src=3D"http://li.blogtrottr.com/imp?=
+s=3D123761914&sz=3D2x1&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaab=
+bcd221032d0840e97c2d314df44e1ae0147b" width=3D"2" height=3D"6" border=3D"0"=
+ /></td><td><img src=3D"http://li.blogtrottr.com/imp?s=3D123761915&sz=3D2x1=
+&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d31=
+4df44e1ae0147b" width=3D"2" height=3D"6" border=3D"0" /></td><td><img src=
+=3D"http://li.blogtrottr.com/imp?s=3D123761916&sz=3D2x1&li=3D0&m=3D53218ea2=
+108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" widt=
+h=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://li.blogtrot=
+tr.com/imp?s=3D123761917&sz=3D2x1&li=3D0&m=3D53218ea2108534d012156993e92f2e=
+35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae0147b" width=3D"2" height=3D"6" b=
+order=3D"0" /></td><td><img src=3D"http://li.blogtrottr.com/imp?s=3D1237619=
+18&sz=3D2x1&li=3D0&m=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0=
+840e97c2d314df44e1ae0147b" width=3D"2" height=3D"6" border=3D"0" /></td><td=
+><img src=3D"http://li.blogtrottr.com/imp?s=3D123761919&sz=3D2x1&li=3D0&m=
+=3D53218ea2108534d012156993e92f2e35&p=3Dbaabbcd221032d0840e97c2d314df44e1ae=
+0147b" width=3D"2" height=3D"6" border=3D"0" /></td></tr></tbody></table>
+        </body>
+</html>
+--=_3dcd2f4378402ef0b4dcbe248c364540--
